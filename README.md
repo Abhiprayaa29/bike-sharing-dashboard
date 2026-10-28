@@ -1,8 +1,12 @@
 # Bike Sharing Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abhiprayaa29-bike-sharing-dashboard-dashboarddashboard-j5y8xb.streamlit.app/)
+
 Proyek akhir kelas **Belajar Analisis Data dengan Python** — Dicoding.
 
 Dashboard interaktif untuk menganalisis pola permintaan penyewaan sepeda **Capital Bikeshare, Washington D.C.** periode **2011–2012** menggunakan **Bike Sharing Dataset**.
+
+**Live Demo:** [Streamlit Community Cloud](https://abhiprayaa29-bike-sharing-dashboard-dashboarddashboard-j5y8xb.streamlit.app/)
 
 **Nama:** Abdillah Abhipraya Abrar
 **Email:** abdillahabhi13@gmail.com  
@@ -180,7 +184,7 @@ Selain itu, **manual grouping** digunakan untuk mengelompokkan jam menjadi blok 
 4. Klik **Deploy** dan tunggu proses selesai.
 5. Salin URL dashboard yang dihasilkan, lalu ganti isi `url.txt` dengan URL tersebut.
 
-> Catatan: `url.txt` saat ini berisi placeholder. Ganti dengan URL dashboard Anda setelah deployment agar saran ketiga pada rubrik penilaian terpenuhi.
+> Dashboard telah dideploy ke Streamlit Community Cloud: [Live Demo](https://abhiprayaa29-bike-sharing-dashboard-dashboarddashboard-j5y8xb.streamlit.app/). URL yang sama tersimpan di `url.txt`.
 
 ---
 

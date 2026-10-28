@@ -1,3 +1,1 @@
-# Ganti baris berikut dengan URL dashboard Streamlit Anda setelah deployment.
-# Contoh: https://bike-sharing-dashboard.streamlit.app
-https://ganti-dengan-url-dashboard-anda.streamlit.app
+https://abhiprayaa29-bike-sharing-dashboard-dashboarddashboard-j5y8xb.streamlit.app/
